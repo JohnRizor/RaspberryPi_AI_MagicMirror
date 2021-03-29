@@ -19,6 +19,8 @@ Future features I will install:
 
 
 <img src="MagicMirror Photos/FinalPic2.jpg" align="center"></img>
+
+
 <img src="MagicMirror Photos/FinalPic1.jpg" align="center"></img>
 _______
 
@@ -56,11 +58,23 @@ Majority of the project was installed using Bash, Javascript, and Python. I inst
 **Measuring and building the frame**
 
 <img src="MagicMirror Photos/phase 3.jpg" align="center"></img>
+
+
 <img src="MagicMirror Photos/phase5.jpg" align="center"></img>
+
+
 <img src="MagicMirror Photos/phase4.jpg" align="center"></img>
+
+
 <img src="MagicMirror Photos/Phase2.png" align="center"></img>
+
+
 <img src="MagicMirror Photos/Phase 6.jpg" align="center"></img>
+
+
 <img src="MagicMirror Photos/Phase 7.jpg" align="center"></img>
+
+
 
 **Connecting the Raspberry Pi to the Mirror**
 

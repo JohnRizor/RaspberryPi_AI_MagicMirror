@@ -49,9 +49,11 @@ Future modules I will be installing are:
 Majority of the project was installed using Bash, Javascript, and Python. I install used Remote Desktop Protocol (RDP) to remote into the Raspberry Pi for updates. Below are some photos throughout the progression of my project.
 
 **Programming Station**
+
 <img src="MagicMirror Photos/programming station.jpg" align="center"></img>
 
 **Measuring and building the frame**
+
 <img src="MagicMirror Photos/phase 3.jpg" align="center"></img>
 <img src="MagicMirror Photos/phase5.jpg" align="center"></img>
 <img src="MagicMirror Photos/phase4.jpg" align="center"></img>
@@ -59,7 +61,8 @@ Majority of the project was installed using Bash, Javascript, and Python. I inst
 <img src="MagicMirror Photos/Phase 6.jpg" align="center"></img>
 <img src="MagicMirror Photos/Phase 7.jpg" align="center"></img>
 
-**Connecting the Raspberry Pi to the Mirror&&
+**Connecting the Raspberry Pi to the Mirror**
+
 <img src="MagicMirror Photos/Phase 8.jpg" align="center"></img>
 
 My goal is to continue to work on the mirror and build a better project. Having the ability to remote into the Pi to conduct installations and updates will be useful to keep the mirror fresh and tailored for the user.

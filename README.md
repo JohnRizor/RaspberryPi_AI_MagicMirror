@@ -3,7 +3,22 @@
 _____
 The purpose of this project was to create a two-way mirror with the ability to display a calendar, link with a home assistant application (Alexa), news updates, and screencast abilities. The focus of this application was to allow my mother to screencast fun and workout related videos. The new products like the [Mirror] (https://www.mirror.co/) has become a new rave aroung the world. I wanted to provide my mom a similar product she could screencast her iFit, Nike+, and other application workouts on her mirror (without the big tag price). 
 
-![MagicMirror](
+The current mirror has the following features:
+- Calendar
+- Date & Time
+- Weather Forecast
+- Screencast 
+- Daily Verse
+- News Update
+- Alexa Assistant
+- Auto Start
+
+Future features I will install:
+- Motion Detection 
+
+
+<img src="MagicMirror Photos/FinalPic2.jpg" align="center"></img>
+<img src="MagicMirror Photos/FinalPic1.jpg" align="center"></img>
 _______
 
 
@@ -31,7 +46,20 @@ Future modules I will be installing are:
 - [Motion Detection](https://github.com/rejas/MMM-MotionDetector)
 - [Google Photo Album](https://github.com/ChrisAcrobat/MMM-GooglePhotos)
 
-Majority of the project was installed using Bash, Javascript, and Python. I install used Remote Desktop Protocol (RDP) to remote into the Raspberry Pi for updates. Below are some pictures of the progress of my project. 
+Majority of the project was installed using Bash, Javascript, and Python. I install used Remote Desktop Protocol (RDP) to remote into the Raspberry Pi for updates. Below are some photos throughout the progression of my project.
 
+**Programming Station**
+<img src="MagicMirror Photos/programming station.jpg" align="center"></img>
 
-- 
+**Measuring and building the frame**
+<img src="MagicMirror Photos/phase 3.jpg" align="center"></img>
+<img src="MagicMirror Photos/phase5.jpg" align="center"></img>
+<img src="MagicMirror Photos/phase4.jpg" align="center"></img>
+<img src="MagicMirror Photos/Phase2.png" align="center"></img>
+<img src="MagicMirror Photos/Phase 6.jpg" align="center"></img>
+<img src="MagicMirror Photos/Phase 7.jpg" align="center"></img>
+
+**Connecting the Raspberry Pi to the Mirror&&
+<img src="MagicMirror Photos/Phase 8.jpg" align="center"></img>
+
+My goal is to continue to work on the mirror and build a better project. Having the ability to remote into the Pi to conduct installations and updates will be useful to keep the mirror fresh and tailored for the user.

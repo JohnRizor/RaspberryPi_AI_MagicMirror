@@ -2,6 +2,8 @@
 
 _____
 The purpose of this project was to create a two-way mirror with the ability to display a calendar, link with a home assistant application (Alexa), news updates, and screencast abilities. The focus of this application was to allow my mother to screencast fun and workout related videos. The new products like the [Mirror] (https://www.mirror.co/) has become a new rave aroung the world. I wanted to provide my mom a similar product she could screencast her iFit, Nike+, and other application workouts on her mirror (without the big tag price). 
+
+![MagicMirror](
 _______
 
 
@@ -18,7 +20,18 @@ If you are interested in doing a similar project the material I used and some li
 
 The first step in completing this projects was to do research on completed Magic Mirrors and different modules/scripts that I wanted to install onto the Magic Mirror. The start of my research was at [MagicMirror Builder](https://magicmirror.builders/). 
 
-I used the following modules to install different features onto my magic mirror.
+I used the following modules and scripts were used to install different features to my mirror.
 
 - [MagicMirror Default](https://github.com/MichMich/MagicMirror)
+- [Screencast](https://github.com/kevinatown/MMM-Screencast)
+- [Alexa Assistant](https://github.com/dolanmiu/MMM-awesome-alexa)
+- [Daily Verse](https://github.com/arthurgarzajr/MMM-DailyBibleVerse)
+
+Future modules I will be installing are:
+- [Motion Detection](https://github.com/rejas/MMM-MotionDetector)
+- [Google Photo Album](https://github.com/ChrisAcrobat/MMM-GooglePhotos)
+
+Majority of the project was installed using Bash, Javascript, and Python. I install used Remote Desktop Protocol (RDP) to remote into the Raspberry Pi for updates. Below are some pictures of the progress of my project. 
+
+
 - 

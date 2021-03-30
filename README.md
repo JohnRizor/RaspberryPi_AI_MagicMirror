@@ -49,7 +49,7 @@ Future modules I will be installing are:
 - [Motion Detection](https://github.com/rejas/MMM-MotionDetector)
 - [Google Photo Album](https://github.com/ChrisAcrobat/MMM-GooglePhotos)
 
-Majority of the project was installed using Bash, Javascript, and Python. I install used Remote Desktop Protocol (RDP) to remote into the Raspberry Pi for updates. Below are some photos throughout the progression of my project.
+Majority of the project was installed using Bash, Javascript, and Python. Remote Desktop Protocol (RDP) was used to remote into the Raspberry Pi for updates. Below are some photos throughout the progression of my project.
 
 **Programming Station**
 

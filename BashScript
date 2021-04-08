@@ -1,0 +1,59 @@
+Magic Mirror Base
+
+curl -sL https://deb.nodesource.com/setup_10.x | sudo -E bash -
+sudo apt install -y nodejs
+git clone https://github.com/MichMich/MagicMirror
+cd MagicMirror/
+npm install
+cp config/config.js.sample config/config.js
+npm run start
+npm run server
+package.json
+"start": "DISPLAY=\"${DISPLAY:=:0}\" ./node_modules/.bin/electron js/electron.js",
+"start": "node_modules/.bin/electron js/electron.js",
+cd vendor && npm install && cd ..
+var config = {
+	address: "0.0.0.0",	// default is "localhost"
+	port: 8080,		// default
+	ipWhitelist: ["127.0.0.1", "::ffff:127.0.0.1", "::1", "::ffff:172.17.0.1"], // default -- need to add your IP here
+	...
+};
+
+
+ScreenCast
+
+cd MagicMirror/modules
+git clone https://github.com/kevinatown/MMM-Screencast.git
+cd MMM-Screencast
+npm install
+config/config.js
+var config = {
+    modules: [
+        {
+		module: 'MMM-Screencast',
+		position: 'bottom_right', // This position is for a hidden <div /> and not the screencast window
+		config: {
+			position: 'bottomRight',
+			height: 300,
+			width: 500,
+		}
+        }
+    ]
+}
+
+
+Daily Verse
+modules
+git clone https://github.com/arthurgarzajr/MMM-DailyBibleVerse.git
+MMM-DailyBibleVerse
+npm install
+modules: [
+	{
+		module: 'MMM-DailyBibleVerse',
+		position: 'bottom_bar',	// This can be any of the regions. Best result is in the bottom_bar as verses can take multiple lines in a day.
+		config: {
+			version: 'NIV', // This can be changed to any version you want that is offered by Bible Gateway. For a list, go here: https://www.biblegateway.com/versions/,
+	    	size: 'small' // default value is medium, but can be changed. 
+		}
+	}
+]

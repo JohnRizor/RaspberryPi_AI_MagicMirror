@@ -80,4 +80,4 @@ Majority of the project was installed using Bash, Javascript, and Python. Remote
 
 <img src="MagicMirror Photos/Phase 8.jpg" align="center"></img>
 
-My goal is to continue to work on the mirror and build a better project. Having the ability to remote into the Pi to conduct installations and updates will be useful to keep the mirror fresh and tailored for the user. Touch up and repaint to improve appearance.
+My goal is to continue to work on the mirror and build a better project. Having the ability to remote into the Pi to conduct installations and updates will be useful to keep the mirror fresh and tailored for the user. Touch up and repaint to improve appearance. Update scripts and code.
